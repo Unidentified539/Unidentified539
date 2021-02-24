@@ -52,8 +52,8 @@ func GetBio() Bio {
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
   </a>
   
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+  <a href="https://gitlab.com/Unidentified539">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Aziel Solomon's  Gitlab Profile" height="30" width="30">
   </a>
   
   <a href="https://medium.com/@ajzavala">
@@ -92,5 +92,3 @@ func GetBio() Bio {
 
 
 ---
-
-⭐️ From [@AnhellO](https://github.com/AnhellO)
