@@ -1,4 +1,3 @@
-# Aziel Solomon
 <img src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" width="1000" height="800" />
 
 <h2 align="center">About me</h2>
