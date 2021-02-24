@@ -33,35 +33,28 @@ func GetBio() Bio {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+  <a href="https://dev.to/unidentified539">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aziel Solomon's DEV Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
-
-  <a href="https://stackoverflow.com/users/15243797/aziel-solomon">
+ 
+   <a href="https://stackoverflow.com/users/15243797/aziel-solomon">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Aziel Solomon's Stack Overflow Profile" height="30" width="30">
   </a>
 
   <a href="https://stackexchange.com/users/20757785/aziel-solomon">
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Aziel Solomon's Stack Exchange Profile" height="30" width="30">
 
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+  <a href="https://stackshare.io/unidentified539">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Aziel Solomon's StackShare Profile" height="30" width="30">
   </a>
   
   <a href="https://gitlab.com/Unidentified539">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Aziel Solomon's  Gitlab Profile" height="30" width="30">
   </a>
   
-  <a href="https://medium.com/@ajzavala">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  <a href="https://www.youtube.com/channel/UCIxxk1wt8WAvM5cgAFf3qtg">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Aziel Solomon's YouTube Channel" height="30" width="30">
   </a>
 </p>
 
