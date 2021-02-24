@@ -1,4 +1,5 @@
 # Aziel Solomon
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <h2 align="center">About me</h2>
 
