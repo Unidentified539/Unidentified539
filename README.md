@@ -1,5 +1,5 @@
 # Aziel Solomon
-<img src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" width="40" height="40" />
+<img src="https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif" width="800" height="600" />
 
 <h2 align="center">About me</h2>
 
