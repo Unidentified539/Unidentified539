@@ -66,7 +66,5 @@ func GetBio() Bio {
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Aziel Solomon :: StackShare" />
   </a>
 </p>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Unidentified539&count_private=true&theme=tokyonight&showicons=true)]()
-
-
+<p><img src="https://github-readme-stats.vercel.app/api/?username=Unidentified539&amp;count_private=true&amp;theme=tokyonight&amp;showicons=true)](" alt="" width="495" height="195" /></p>
 ---
