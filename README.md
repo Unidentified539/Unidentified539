@@ -24,7 +24,7 @@ func GetBio() Bio {
 		"- 👯 I’m looking to collaborate on": "Spring and other Java Frameworks.",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Linux",
-		"- 📫 How to reach me:":              "You can reach me at Solomonaziel9@gmail.cim and mark it as important.",
+		"- 📫 How to reach me:":              "You can reach me at the email listed on my github profile and mark it as important.",
 	}
 }
 ```
