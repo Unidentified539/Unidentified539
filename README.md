@@ -18,10 +18,10 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A 13 year old, Ethopian, Programmer, Middle Schooler",
+		"- ⚡ Quick bio:":                    "A 12 year old, Ethopian, Programmer, Middle Schooler",
 		"- 🔭 I’m currently working on":      "Nothing exept getting better at coding.",
 		"- 🌱 I’m currently learning":        "Java......",
-		"- 👯 I’m looking to collaborate on": "Spring and other Java Frameworks.",
+		"- 👯 I’m looking to collaborate on": "Nothing",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Linux",
 		"- 📫 How to reach me:":              "You can reach me at the email listed on my github profile and mark it as important.",
